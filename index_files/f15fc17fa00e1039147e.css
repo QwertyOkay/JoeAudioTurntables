@@ -109,5 +109,8 @@
     align-items: center;
     justify-content: center;
     line-height: 0px;
+ }
 
+ .left-logo {
+  height: inherit;
  }
